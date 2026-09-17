@@ -1,1 +1,40 @@
-# Retention-Analysis-Data-Science-Project
+# 🚀 Customer Churn & Retention Analysis (Data Science & Machine Learning)
+
+An end-to-end, beginner-friendly data science project designed to analyze customer turnover, predict churn using machine learning, and provide actionable business retention strategies.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsemaniJoshua/Retention-Analysis-Data-Science-Project/blob/main/telco_customer_churn_analysis.ipynb)
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Dataset](https://img.shields.io/badge/Dataset-IBM%20Telco%20Churn-orange.svg)
+![Status](https://img.shields.io/badge/Progress-Section%201%20Completed-brightgreen.svg)
+
+---
+
+## 📌 Project Overview
+- **Problem**: Predict whether a subscription customer will cancel service and identify which factors drive turnover.
+- **Dataset**: IBM Telco Customer Churn (7,043 customer records, 21 feature columns).
+- **Core Methodology**:
+  1. Exploratory Data Analysis (EDA) & Business Storytelling
+  2. Missing Value Imputation & Data Type Conversion
+  3. Categorical Encoding (Binary & One-Hot Encoding)
+  4. Class Imbalance Mitigation (SMOTE vs. Cost-Sensitive Class Weights)
+  5. Predictive Modeling (Logistic Regression, Random Forest, XGBoost)
+  6. Evaluation with Precision-Recall and ROC-AUC Curves
+  7. Feature Importance & Executive Retention Recommendations
+
+---
+
+## 📂 Project Structure
+- [`telco_customer_churn_analysis.ipynb`](file:///c:/Users/JOSHUA%20ASEMANI/Music/Data%20Science/Retention-Analysis-Data-Science-Project/telco_customer_churn_analysis.ipynb): The master Jupyter Notebook containing all step-by-step code, ELI5 explanations, and pre-computed outputs.
+- [`README.md`](file:///c:/Users/JOSHUA%20ASEMANI/Music/Data%20Science/Retention-Analysis-Data-Science-Project/README.md): Project overview and quick start instructions.
+
+---
+
+## 🧭 Step-by-Step Curriculum
+- [x] **Section 1: Setup, Ingestion & Initial Detective Work**
+- [ ] **Section 2: Data Cleaning & Column Dictionary (Child-Friendly Guide)**
+- [ ] **Section 3: Exploratory Data Analysis (EDA) & Storytelling Visualizations**
+- [ ] **Section 4: Feature Engineering & Preprocessing Pipeline**
+- [ ] **Section 5: Handling Class Imbalance (SMOTE vs. Class Weights)**
+- [ ] **Section 6: Model Training & Head-to-Head Comparison**
+- [ ] **Section 7: Model Evaluation & The ROC-AUC Curve**
+- [ ] **Section 8: Feature Importance, Retention Strategies & Business Impact**
