@@ -5,7 +5,7 @@ An end-to-end, beginner-friendly data science project designed to analyze custom
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsemaniJoshua/Retention-Analysis-Data-Science-Project/blob/main/telco_customer_churn_analysis.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Dataset](https://img.shields.io/badge/Dataset-IBM%20Telco%20Churn-orange.svg)
-![Status](https://img.shields.io/badge/Progress-Section%207%20Completed-brightgreen.svg)
+![Status](https://img.shields.io/badge/Progress-All%208%20Sections%20Completed-brightgreen.svg)
 
 ---
 
@@ -24,8 +24,8 @@ An end-to-end, beginner-friendly data science project designed to analyze custom
 ---
 
 ## 📂 Project Structure
-- [`telco_customer_churn_analysis.ipynb`](file:///c:/Users/JOSHUA%20ASEMANI/Music/Data%20Science/Retention-Analysis-Data-Science-Project/telco_customer_churn_analysis.ipynb): The master Jupyter Notebook containing all step-by-step code, ELI5 explanations, and pre-computed outputs.
-- [`README.md`](file:///c:/Users/JOSHUA%20ASEMANI/Music/Data%20Science/Retention-Analysis-Data-Science-Project/README.md): Project overview and quick start instructions.
+- [`telco_customer_churn_analysis.ipynb`](file:///c:/Users/JOSHUA%20ASEMANI/Music/Data%20Science/Retention-Analysis-Data-Science-Project/telco_customer_churn_analysis.ipynb): The master Jupyter Notebook containing all 8 step-by-step sections, ELI5 explanations, and pre-computed outputs.
+- [`README.md`](file:///c:/Users/JOSHUA%20ASEMANI/Music/Data%20Science/Retention-Analysis-Data-Science-Project/README.md): Project overview and curriculum guide.
 
 ---
 
@@ -37,4 +37,15 @@ An end-to-end, beginner-friendly data science project designed to analyze custom
 - [x] **Section 5: Handling Class Imbalance (SMOTE vs. Class Weights)**
 - [x] **Section 6: Model Training & Head-to-Head Comparison**
 - [x] **Section 7: Model Evaluation & The ROC-AUC Curve**
-- [ ] **Section 8: Feature Importance, Retention Strategies & Business Impact**
+- [x] **Section 8: Feature Importance, Retention Strategies & Business Impact**
+
+---
+
+## 🏆 Final Results & Key Takeaways
+
+| Metric / Analysis | Result | Business Interpretation |
+| :--- | :---: | :--- |
+| **Model Recall** | **85.25%** | Catches the vast majority of churning customers (vs. 0% for dummy baseline). |
+| **ROC-AUC Score** | **0.8484** | Outstanding discriminative ability to rank customers from highest to lowest churn risk. |
+| **Top Predictors** | `Contract`, `Fiber Optic`, `Tenure`, `Tech Support` | Long-term contracts and tech support anchor retention; expensive month-to-month fiber drives churn. |
+| **Net Annual ROI** | **$153,154+ (481.6% ROI)** | Saving just 15% of identified churners yields massive recurring enterprise value. |
