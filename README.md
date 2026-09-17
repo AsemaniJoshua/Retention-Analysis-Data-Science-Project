@@ -5,7 +5,7 @@ An end-to-end, beginner-friendly data science project designed to analyze custom
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsemaniJoshua/Retention-Analysis-Data-Science-Project/blob/main/telco_customer_churn_analysis.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Dataset](https://img.shields.io/badge/Dataset-IBM%20Telco%20Churn-orange.svg)
-![Status](https://img.shields.io/badge/Progress-Section%202%20Completed-brightgreen.svg)
+![Status](https://img.shields.io/badge/Progress-Section%203%20Completed-brightgreen.svg)
 
 ---
 
@@ -32,7 +32,7 @@ An end-to-end, beginner-friendly data science project designed to analyze custom
 ## 🧭 Step-by-Step Curriculum
 - [x] **Section 1: Setup, Ingestion & Initial Detective Work**
 - [x] **Section 2: Data Cleaning & Column Dictionary (Child-Friendly Guide)**
-- [ ] **Section 3: Exploratory Data Analysis (EDA) & Storytelling Visualizations**
+- [x] **Section 3: Exploratory Data Analysis (EDA) & Storytelling Visualizations**
 - [ ] **Section 4: Feature Engineering & Preprocessing Pipeline**
 - [ ] **Section 5: Handling Class Imbalance (SMOTE vs. Class Weights)**
 - [ ] **Section 6: Model Training & Head-to-Head Comparison**
